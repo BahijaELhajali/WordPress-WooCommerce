@@ -54,7 +54,7 @@ Ce projet vise à concevoir un site e-commerce complet s'appelle Espace Harmonie
 
 ## Identifiants administrateur principal
 - **Nom d’utilisateur** : `1`
-- **Mot de passe** : ``
+- **Mot de passe** : `123`
 - **URL d’accès** : `http://localhost/nom_du_projet/wp-admin`
 
 ---
